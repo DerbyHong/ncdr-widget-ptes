@@ -3,11 +3,11 @@ var ScriptTemp_T300250_Extreme_6301200 = document.createElement('script');
                             ScriptTemp_T300250_Extreme_6301200.id = 'TempID_T300250_Extreme_6301200';
                             ScriptTemp_T300250_Extreme_6301200.text = "<li> \
                     <div class='alertCAP_banner alertCAP_banner02 bannerYellow banner300X250' style='width:300px;margin: 0px auto;'>\
-                         <div class='block_up' style='background-color:#ffff00;color:#000000;height:70px;'>\
+                         <div class='block_up' style='background-color:#ffd700;color:#000000;height:70px;'>\
                               <div class='alertCAP_Area'>臺北市-北投區</div>\
-                              <div class='alertCAP_titleicon'style='background-color:#ffff00;'>\
+                              <div class='alertCAP_titleicon'style='background-color:#ffd700;'>\
           	                    <img src='{{@AlertImage}}';style='width:35px;height:52.5px;'title='{{@Event}}' alt='{{@Event}}'>\
-                                   <div class='alertCAP_title' style='background-color:#ffff00;color:#000000'>{{@Event}}</div>\
+                                   <div class='alertCAP_title' style='background-color:#ffd700;color:#000000'>{{@Event}}</div>\
                               </div>\
                          </div>\
                          <div class='block_down' style='background-color:#ffffff;color:#000000;height:180px;font-size:px'>\
